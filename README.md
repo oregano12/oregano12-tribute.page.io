@@ -1,6 +1,6 @@
 #  Tribute Page - Freecodecamp Exercise
 
-Tribute page exercite with HTML and CSS from Freecodecamp.
+Tribute page exercise with HTML and CSS from Freecodecamp.
 
 ## Overview
 ### Links
